@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gishf1u0056dkw82/branch/main?svg=true)](https://ci.appveyor.com/project/AleksandrKudyakov/ra-forms-hex2rgb/branch/main)
